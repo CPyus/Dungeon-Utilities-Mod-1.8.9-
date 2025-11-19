@@ -1,5 +1,5 @@
 # DUM – Dungeon Utility Mod
-### [Dungeon-Utilities-Mod-1.8.9-v1.1-beta](https://github.com/CPyus/Dungeon-Utilities-Mod-1.8.9-/releases/tag/Skyblock)
+### [Dungeon-Utilities-Mod-1.8.9-v1.1-beta](https://github.com/CPyus/Dungeon-Utilities-Mod-1.8.9-/releases/tag/v1.1.-beta)
 
 
 A lightweight but powerful **Minecraft Forge 1.8.9** mod that adds helpful utilities, QoL improvements, and dungeon-focused features for **Hypixel SkyBlock**.
